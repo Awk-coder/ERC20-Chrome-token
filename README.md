@@ -7,4 +7,4 @@ This was coded by me with help from above vid
 
 the version problems were crazy
 
-good project to learn!
+good project to learn!.
